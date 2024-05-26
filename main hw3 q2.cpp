@@ -2,7 +2,6 @@
 //  main.cpp
 //  cis 3100 hw 3 q2
 //
-//  Created by Cindy Hernandez on 5/25/24.
 //
 
 #include <iostream>
